@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90161648259",
+    "project_id": "fire-exam-app",
+    "storage_bucket": "fire-exam-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90161648259:android:9e28c08840f932d8b941b6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbLPh1d55iR-HiYVMu8fMOtKAr5zKwfi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
